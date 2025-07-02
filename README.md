@@ -19,8 +19,8 @@ This is a simple command-line based quiz game built with Python.
    ```bash
    pip install colorama
 
-🛠️ Skills Used
-	•	File I/O (JSON)
-	•	Functions and loops
-	•	Python’s signal module (for timeout)
-	•	CLI design with colorama
+## 🛠️ Skills Used
+•File I/O (JSON)
+•Functions and loops
+•Python’s signal module (for timeout)
+•CLI design with colorama
